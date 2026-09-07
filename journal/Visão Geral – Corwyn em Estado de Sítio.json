@@ -1,0 +1,13 @@
+{
+  "name": "01. Visao Geral - Corwyn em Estado de Sitio",
+  "folder": "Campanhas / Corwyn",
+  "pages": [
+    {
+      "name": "Visao Geral - Corwyn em Estado de Sitio",
+      "type": "text",
+      "text": {
+        "content": "<h1>Corwyn em Estado de Sítio</h1><p>A pacata vila de Corwyn encontra-se sob um regime autoritário e silencioso. Enfurecida com os rumores de uma aliança com goblins e a criação de uma pista de dança clandestina nas catacumbas, a Autarca Tanner tomou medidas drásticas. Contratou mercenários para descer aos Salões Chiranos profundos e reativar os antigos construtos de ferro negro guardiões (os mechs).</p><p>Atualmente, estas máquinas patrulham as ruas húmidas de Corwyn, projetando um campo de silêncio mágico e detendo qualquer cidadão que ande na rua após o crepúsculo ou transporte instrumentos musicais.</p><h2>O Fenómeno: O Mercado da Meia-Noite</h2><p>Uma névoa espessa e sobrenatural com cheiro a incenso e pedra molhada invadiu os becos da vila. Protegido por esta barreira mágica, o lendário Mercado da Meia-Noite materializou-se temporariamente. Os seus mercadores e contrabandistas estão furiosos com as patrulhas mecânicas que afugentam os clientes e ameaçam confiscar os seus produtos exóticos. Uma aliança improvável formou-se entre os bards da rave, os goblins locais e o mercado negro.</p><h2>Objetivos da Missão</h2><ul><li><strong>Infiltrar Corwyn:</strong> Evitar as patrulhas dos mechs chiranos usando furtividade ou magia.</li><li><strong>Contactar o Mercado:</strong> Encontrar a entrada oculta no nevoeiro.</li><li><strong>Localizar Silla, a Sombra:</strong> Convencer a ladra a entregar o Núcleo de Sobrecarga Chirano que ela roubou do gabinete da Autarca.</li><li><strong>Entregar o Núcleo a Hector:</strong> Levar o componente até ao jovem Hector nas catacumbas para que ele possa reprogramar as máquinas.</li></ul>"
+      }
+    }
+  ]
+}

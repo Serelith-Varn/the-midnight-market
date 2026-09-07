@@ -1,0 +1,13 @@
+{
+  "name": "04. Hessia Wraithcall",
+  "folder": "Mercado da Meia-Noite / NPCs",
+  "pages": [
+    {
+      "name": "Hessia Wraithcall",
+      "type": "text",
+      "text": {
+        "content": "<h1>Hessia Wraithcall</h1><p><strong>Raça/Género:</strong> Humana, Feminino<br><strong>Classe:</strong> Cartomante Cursada / Oráculo<br><strong>Estatísticas de Combate:</strong> Classe de Armadura (AC) 12 | Pontos de Vida (HP) 24</p><h2>Descrição</h2><p>Hessia está ligada espiritualmente ao Mercado da Meia-Noite e nunca sai do limite das suas tendas. Senta-se atrás de uma mesa coberta de tecidos escuros, com um aroma forte a ervas queimadas, velas negras e símbolos arcanos. Ela consegue ver através da névoa e ler \"os fios do destino\" e as correntes mágicas de Corwyn.</p><h2>O Enigma de Hessia</h2><p>Se os bards ou magos do grupo procurarem a sua ajuda para localizar Silla, Hessia oferecerá uma profecia exata se eles conseguirem decifrar o seu enigma:</p><blockquote><p>\"Falo sem boca e ouço sem ouvidos. Não tenho corpo, mas ganho vida com o vento.\"</p></blockquote><p><strong>Resposta:</strong> Um eco (Um elemento essencial para bards!).</p><p>Se acertarem, ela revela que Silla está escondida \"nas sombras dentro das sombras\", indicando o ponto exato onde a névoa do mercado toca as ruínas antigas da catedral de Corwyn.</p>"
+      }
+    }
+  ]
+}
