@@ -1,6 +1,1 @@
-/**
- * Main initialization script for The Midnight Market.
- */
-Hooks.once("init", () => {
-  console.log("the-midnight-market | Initialized.");
-});
+﻿Hooks.once('init', () => console.log('The Midnight Market | Initialized'));
