@@ -1,0 +1,13 @@
+{
+  "name": "08. Item - Nucleo de Sobrecarga Chirano",
+  "folder": "Campanhas / Itens",
+  "pages": [
+    {
+      "name": "Item - Nucleo de Sobrecarga Chirano",
+      "type": "text",
+      "text": {
+        "content": "<h1>Núcleo de Sobrecarga Chirano</h1><p><strong>Tipo:</strong> Item Mágico / Item de Enredo</p><h2>Descrição</h2><p>Um cristal cilíndrico de obsidiana lapidada, envolto em filamentos de bronze antigo que pulsam com uma luz azul gélida. Este núcleo armazena a energia de controlo de alta frequência usada pelos antigos construtores de Chiran para comandar os seus servidores robóticos.</p><h2>Propriedades</h2><ul><li><strong>Frequência de Comando:</strong> Quem possuir este núcleo pode gastar uma ação para forçar um construto chirano a até 60 pés a realizar um saving throw de Wisdom (DC 14). Se falhar, o construto fica sob o efeito da magia Suggestion por 1 minuto, obedecendo a ordens básicas de movimento ou guarda.</li><li><strong>Uso na Missão:</strong> Deve ser entregue a Hector para que ele instale o patch de reprogramação global e salve a rave clandestina!</li></ul>"
+      }
+    }
+  ]
+}

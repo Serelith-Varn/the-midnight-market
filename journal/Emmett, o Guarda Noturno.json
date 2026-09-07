@@ -1,0 +1,13 @@
+{
+  "name": "05. Emmett, o Guarda Noturno",
+  "folder": "Mercado da Meia-Noite / NPCs",
+  "pages": [
+    {
+      "name": "Emmett, o Guarda Noturno",
+      "type": "text",
+      "text": {
+        "content": "<h1>Emmett, o Guarda Noturno (Emmett the Night Watchman)</h1><p><strong>Raça/Género:</strong> Anão, Masculino<br><strong>Classe:</strong> Guerreiro / Vigilante do Mercado<br><strong>Estatísticas de Combate:</strong> Classe de Armadura (AC) 16 | Pontos de Vida (HP) 35</p><h2>Descrição</h2><p>Gruff, rabugento e incorruptível face a ameaças externas, Emmett é o responsável por manter a ordem dentro dos limites mágicos do Mercado da Meia-Noite. Detesta profundamente os novos mechs da Autarca Tanner porque \"aquelas latas de conserva velhas não têm respeito pelo comércio tradicional e não sabem aceitar uma suborno decente\".</p><h2>Papel Tático na Missão</h2><p>Emmett pode ser convencido pelo grupo (especialmente se lhe pagarem em boa cerveja anã ou ouro) a criar uma enorme distração na praça central de Corwyn. Ele baterá com o seu escudo e desafiará os mechs para um combate direto, atraindo a atenção das patrulhas mecânicas e permitindo que o grupo entre nas catacumbas sem ser detetado.</p>"
+      }
+    }
+  ]
+}

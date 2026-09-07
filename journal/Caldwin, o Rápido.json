@@ -1,0 +1,13 @@
+{
+  "name": "03. Caldwin, o Rapido",
+  "folder": "Mercado da Meia-Noite / NPCs",
+  "pages": [
+    {
+      "name": "Caldwin, o Rapido",
+      "type": "text",
+      "text": {
+        "content": "<h1>Caldwin, o Rápido (Caldwin the Quick)</h1><p><strong>Raça/Género:</strong> Elfo, Masculino<br><strong>Classe:</strong> Negociante / Ladino<br><strong>Estatísticas de Combate:</strong> Classe de Armadura (AC) 13 | Pontos de Vida (HP) 22</p><h2>Descrição</h2><p>Caldwin é um comerciante astuto especializado em quinquilharias bizarras, poções exóticas e equipamentos \"não autorizados\". Ele conhece quase todos os segredos de Corwyn e do mercado. Está disposto a vender pistas sobre o paradeiro de Silla ou equipamentos de infiltração, mas prefere trocas por itens pessoais de grande valor sentimental a ouro comum.</p><h2>Contrabando Disponível para a Missão</h2><ul><li><strong>Mantas de Abafamento Acústico (Muffling Blankets):</strong> Permitem que o grupo se mova sem fazer qualquer ruído de passos ou armaduras metálicas (+5 em testes de Stealth contra sensores mecânicos).</li><li><strong>Bombas de Choque Estático (Shock-Bombs):</strong> Engenhos alquímicos que, ao explodirem, forçam um construto a realizar um saving throw de Constitution (DC 13) ou ficar atordoado (Stunned) por 1 ronda.</li><li><strong>Incensos de Dissipação de Névoa (Mist Incense):</strong> Criam uma nuvem temporária que cega os sensores óticos dos mechs chiranos por 3 rondas.</li></ul>"
+      }
+    }
+  ]
+}

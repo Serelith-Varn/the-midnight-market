@@ -1,0 +1,13 @@
+{
+  "name": "02. Silla, a Sombra",
+  "folder": "Mercado da Meia-Noite / NPCs",
+  "pages": [
+    {
+      "name": "Silla, a Sombra",
+      "type": "text",
+      "text": {
+        "content": "<h1>Silla, a Sombra (Silla the Shadow)</h1><p><strong>Raça/Género:</strong> Meio-Orc, Feminino<br><strong>Classe:</strong> Ladra / Especialista em Ilusões<br><strong>Estatísticas de Combate:</strong> Classe de Armadura (AC) 14 | Pontos de Vida (HP) 28</p><h2>Biografia & Papel no Enredo</h2><p>Silla é uma ladra lendária que se move nas franjas do Mercado da Meia-Noite. Ela invadiu recentemente o gabinete da Autarca Tanner e roubou um misterioso artefato — o Núcleo de Sobrecarga Chirano — acreditando tratar-se de uma gema mágica que poderia quebrar uma maldição que a atormenta.</p><p>Agora, está escondida nas sombras mais densas do mercado para escapar tanto aos mechs da Autarca como aos agentes do mercado. Se for encurralada, defender-se-á com ilusões, rasteiras e armadilhas, alertando os jogadores de que a gema tem uma energia negra perigosa.</p><h2>Como Interagir</h2><ul><li><strong>Abordagem Diplomática:</strong> Se os bards a convencerem de que o núcleo pode ser usado para neutralizar os mechs (e se prometerem ajudá-la a quebrar a sua maldição mais tarde), ela entregará o item voluntariamente.</li><li><strong>Abordagem Furtiva:</strong> Os jogadores podem tentar roubar o núcleo enquanto ela se esconde no nevoeiro.</li></ul>"
+      }
+    }
+  ]
+}

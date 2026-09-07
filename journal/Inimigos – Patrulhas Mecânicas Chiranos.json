@@ -1,0 +1,13 @@
+{
+  "name": "07. Inimigos - Patrulhas Mecanicas Chiranos",
+  "folder": "Campanhas / Ameaças",
+  "pages": [
+    {
+      "name": "Inimigos - Patrulhas Mecanicas Chiranos",
+      "type": "text",
+      "text": {
+        "content": "<h1>Patrulhas Mecânicas Chiranos (Guardiões de Ferro Negro)</h1><p><strong>Tipo:</strong> Construto Médio, Neutro<br><strong>Classe de Armadura (AC):</strong> 17 (Placas de ferro preto antigo)<br><strong>Pontos de Vida (HP):</strong> 45 (Resistência a dano não mágico de corte, perfuração e impacto)<br><strong>Velocidade:</strong> Flutua a 30 ft. (imune a terreno difícil básico)<br><strong>Sentidos:</strong> Visão no Escuro 120 ft., Perceção Passiva 14 (sensores de movimento e calor)</p><h2>Habilidades Especiais</h2><ul><li><strong>Aura de Silêncio:</strong> O mech projeta um efeito constante equivalente à magia Silence num raio de 15 pés centrado em si próprio. Nenhuma magia com componentes verbais ou som de instrumentos pode ser executada dentro desta aura.</li><li><strong>Toque Drenador de Energia (Ataque Melee):</strong> Attack +5, alcance 5 ft. Dano: 2d6 + 3 de dano Necrótico. O alvo deve ser bem-sucedido num saving throw de Constitution (DC 12) ou a sua velocidade será reduzida para metade até ao final do seu próximo turno devido ao frio estático.</li><li><strong>Sinalizador de Alarme:</strong> Se detetar um intruso com instrumentos ou fora de horas, o mech emite um flash de luz vermelha brilhante. Outros mechs num raio de 300 pés convergem para a posição em 2 rondas.</li></ul>"
+      }
+    }
+  ]
+}
